@@ -19,7 +19,7 @@
 ### 1️⃣ Sales Data Cleaning & Preparation
 - Cleaned raw sales data
 - Handled missing values and duplicates  
-🔗 Project Link: Coming soon
+🔗 Project Link: https://github.com/Anfas01/sales-data-cleaning
 
 ---
 
