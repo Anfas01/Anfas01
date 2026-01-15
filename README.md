@@ -36,4 +36,4 @@
 ---
 
 ## 🎯 Currently Looking For
-- Internships
+- Data Analyst Internships
