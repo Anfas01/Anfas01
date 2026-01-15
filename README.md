@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Zoro
 
-<!--
-**Anfas01/Anfas01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst  
+🔹 Python | SQL | Pandas | Data Cleaning | EDA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Python (Pandas, NumPy)
+- SQL
+- Data Cleaning & Preparation
+- Exploratory Data Analysis (EDA)
+- Data Visualization (Matplotlib)
+
+---
+
+## 📁 Portfolio Projects
+
+### 1️⃣ Sales Data Cleaning & Preparation
+- Cleaned raw sales data
+- Handled missing values and duplicates  
+🔗 Project Link: Coming soon
+
+---
+
+### 2️⃣ Customer Behavior EDA
+- Analyzed customer purchase patterns  
+🔗 Project Link: Coming soon
+
+---
+
+### 3️⃣ SQL Data Analysis Project
+- Answered business questions using SQL  
+🔗 Project Link: Coming soon
+
+---
+
+## 🎯 Currently Looking For
+- Data Analyst Internships
