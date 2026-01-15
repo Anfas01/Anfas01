@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zoro
+# 👋 Hi, Anfas
 
 📊 Aspiring Data Analyst  
 🔹 Python | SQL | Pandas | Data Cleaning | EDA
