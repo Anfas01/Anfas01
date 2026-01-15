@@ -1,4 +1,4 @@
-# 👋 Hi, Anfas
+# 👋 Hi, I'm Anfas
 
 📊 Aspiring Data Analyst  
 🔹 Python | SQL | Pandas | Data Cleaning | EDA
