@@ -24,8 +24,9 @@
 ---
 
 ### 2️⃣ Exploratory Data Analysis
-- Explored video game sales 
-🔗 Project Link: https://github.com/Anfas01/video-game-sales-eda/tree/main
+- Cleaned raw sales data
+- Handled missing values and duplicates  
+🔗 Project Link: https://github.com/Anfas01/sales-data-cleaning
 
 ---
 
