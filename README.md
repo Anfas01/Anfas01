@@ -24,9 +24,8 @@
 ---
 
 ### 2️⃣ Exploratory Data Analysis
-- Cleaned raw sales data
-- Handled missing values and duplicates  
-🔗 Project Link: https://github.com/Anfas01/sales-data-cleaning
+- Analyzed video game sales data to understand platform performance, genre popularity, and yearly sales trends
+🔗 Project Link: https://github.com/Anfas01/video-game-sales-eda
 
 ---
 
