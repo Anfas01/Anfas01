@@ -16,16 +16,16 @@
 
 ## 📁 Portfolio Projects
 
-### 1️⃣ Sales Data Cleaning & Preparation
+## 1️⃣ Sales Data Cleaning & Preparation
 - Cleaned raw sales data
 - Handled missing values and duplicates  
 🔗 Project Link: [Sales Data Cleaning](https://github.com/Anfas01/sales-data-cleaning)
 
-### 2️⃣ Exploratory Data Analysis
+## 2️⃣ Exploratory Data Analysis
 - Analyzed video game sales data to understand platform performance, genre popularity, and yearly sales trends  
 🔗 Project Link: [Video Game Sales EDA](https://github.com/Anfas01/video-game-sales-eda)
 
-### 3️⃣ SQL Data Analysis Project
+## 3️⃣ SQL Data Analysis Project
 - Answered business questions using SQL  
 🔗 Project Link: _Coming soon_
 
