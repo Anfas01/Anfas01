@@ -24,8 +24,8 @@
 ---
 
 ### 2️⃣ Exploratory Data Analysis
-- Analyzed video game sales data to understand platform performance, genre popularity, and yearly sales trends
- 🔗 Project Link: https://github.com/Anfas01/video-game-sales-eda/tree/main
+- Analyzed video game sales data to understand platform performance, genre popularity, and yearly sales trends/
+🔗 Project Link: https://github.com/Anfas01/video-game-sales-eda/tree/main
 
 ---
 
