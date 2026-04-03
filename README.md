@@ -1,31 +1,71 @@
-# Professional Resume - FastAPI Developer
+Hi, I'm Anfas 👋
 
-## Summary
-Dynamic and detail-oriented FastAPI Developer with a solid foundation in backend development and a keen interest in transforming innovative ideas into functional applications. Adept at working in team settings while also exhibiting strong independent problem-solving skills. Prepared for internship opportunities to further develop technical acumen and contribute to team success.
+🚀 Backend Developer | FastAPI | Learning AI Integration
 
-## Tech Stack
-- **Programming Languages:** Python
-- **Frameworks:** FastAPI
-- **Databases:** PostgreSQL
-- **Cloud Services:** 
-- **Version Control:** Git, GitHub
-- **Tools:** Docker, Postman, VS Code
+Focused on building scalable backend systems and currently exploring AI-powered applications.
 
-## Projects
-1. **FastAPI Demo E-Commerce API** - An e-commerce API built using FastAPI. Repository: [Anfas01/fast-api-demo-project](https://github.com/Anfas01/fast-api-demo-project)
+---
 
-## Skills
-- Strong grasp of web development principles
-- Proficient in building APIs with FastAPI
-- Ability to write clean, maintainable, and scalable code
-- Excellent debugging and troubleshooting skills
-- Familiarity with Agile methodologies
+🧠 About Me
 
-## Contact Information
-- **Email:** anfas010101@gmail.com
-- **LinkedIn:**  
-- **GitHub:** [github.com/Anfas01](https://github.com/Anfas01)  
+- 💻 Backend developer using FastAPI
+- 🔐 Built authentication systems with JWT & Refresh Tokens
+- 🗄️ Working with PostgreSQL
+- 🐳 Using Docker for development
+- 🤖 Currently learning AI concepts & LLM integration
+- 🎯 Looking for internship opportunities
 
-## Availability
-Open to internship opportunities.
+---
+
+🛠️ Tech Stack
+
+Category| Tools & Technologies
+Languages| Python
+Backend| FastAPI, Pydantic, SQLAlchemy
+Databases| PostgreSQL
+Tools| Docker, Git, GitHub
+Learning| AI, LangChain, LLMs
+
+---
+
+📂 Projects
+
+🛒 E-commerce API
+
+A backend system with authentication and core e-commerce features.
+
+- 🔐 JWT Authentication + Refresh Token
+- 👤 User management system
+- 📦 Product & order handling
+- 🗄️ PostgreSQL integration
+- 🐳 Docker setup
+
+Tech: FastAPI, SQLAlchemy, PostgreSQL, Docker
+
+👉 https://github.com/Anfas01/fast-api-demo-project
+
+---
+
+📈 Currently Learning
+
+- 🤖 AI & LLM fundamentals
+- ⚡ LangChain basics
+- ☁️ Cloud deployment (AWS / GCP)
+
+---
+
+🎯 Career Goal
+
+To become a Backend Developer specializing in AI-integrated applications.
+
+---
+
+📫 Connect With Me
+
+- GitHub: https://github.com/Anfas01
+- Email: anfas010101@gmail.com
+
+---
+
+⭐ Actively looking for internship opportunities and eager to learn.
 
