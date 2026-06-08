@@ -44,7 +44,7 @@ A fully responsive e-commerce website built using HTML, CSS, and JavaScript.
 - Responsive design
 - Clean user interface
 
-🔗 Project Link: Coming Soon
+🔗 Project Link: https://ecommerce-website-iota-tan.vercel.app/
 
 ---
 
