@@ -2,21 +2,22 @@
 
 ### Frontend Developer from Kerala, India
 
-I'm a passionate frontend developer focused on building modern, responsive, and user-friendly web applications. Currently improving my skills in JavaScript and React while working on personal projects to strengthen my development experience.
+I'm a frontend developer passionate about building responsive, user-friendly, and modern web experiences. I enjoy turning ideas into functional interfaces and continuously improving my skills through real-world projects and hands-on learning.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **JavaScript, React, and modern frontend development**
-- 💻 Building responsive web applications and e-commerce projects
-- 🎯 Looking for **Frontend Developer Internships**
-- 📚 Continuously improving my coding and problem-solving skills
-- ⚡ Interested in UI/UX and web performance optimization
+- 💻 Building responsive web applications with HTML, CSS, and JavaScript
+- 🌱 Currently learning **React**, API integration, and modern frontend development
+- 🤖 Exploring **AI integration in web applications**
+- 🎯 Actively seeking **Frontend Developer Internship opportunities**
+- 📚 Continuously improving my problem-solving and development skills
+- ⚡ Interested in UI/UX design, web performance, and accessibility
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 ### Frontend
 - HTML5
@@ -36,30 +37,48 @@ I'm a passionate frontend developer focused on building modern, responsive, and 
 ## 📂 Featured Projects
 
 ### 🛒 E-Commerce Website
-A fully responsive e-commerce website built using HTML, CSS, and JavaScript.
 
-**Features:**
-- Product listing
+A responsive e-commerce website built using HTML, CSS, and JavaScript.
+
+**Features**
+- Product listings
 - Shopping cart functionality
 - Responsive design
-- Clean user interface
+- Clean and modern UI
 
-🔗 Project Link: https://ecommerce-website-iota-tan.vercel.app/
+🔗 Live Demo: https://ecommerce-website-iota-tan.vercel.app/
+
+🔗 Source Code: https://github.com/Anfas01/ecommerce-website
 
 ---
 
 ### 🌐 Portfolio Website
-Personal portfolio website showcasing my projects and skills.
 
-🔗 Project Link: https://anfas01-github-io.vercel.app/
+A minimalist dark-themed portfolio showcasing my projects, skills, and development journey.
+
+🔗 Live Demo: https://anfas01-github-io.vercel.app/
+
+🔗 Source Code: https://github.com/Anfas01/Anfas01.github.io
 
 ---
 
-## 📈 GitHub Stats
+## 🌱 Currently Learning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anfas01&show_icons=true)
+- React
+- API Integration
+- AI-Powered Web Applications
+- Modern Frontend Development Workflows
+- Web Performance Optimization
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anfas01&layout=compact)
+---
+
+## 🎯 Goals for 2026
+
+- Build production-ready React projects
+- Contribute to open-source projects
+- Gain real-world experience through internships
+- Learn modern frontend frameworks and tools
+- Develop AI-enhanced web applications
 
 ---
 
@@ -67,9 +86,9 @@ Personal portfolio website showcasing my projects and skills.
 
 📧 Email: anfas010101@gmail.com
 
-💼 LinkedIn: Coming Soon
+🐙 GitHub: https://github.com/Anfas01
 
-🌐 Portfolio: Coming Soon
+🌐 Portfolio: https://anfas01-github-io.vercel.app/
 
 ---
 
