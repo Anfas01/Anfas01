@@ -62,16 +62,6 @@ A minimalist dark-themed portfolio showcasing my projects, skills, and developme
 
 ---
 
-### Chat Bot
-
-A simble chat bot
-
-🔗 Live Demo: https://chat-bot-phi-blond-75.vercel.app
-
-🔗 Source Code: https://github.com/Anfas01/chat-bot
-
----
-
 ## 🌱 Currently Learning
 
 - React
