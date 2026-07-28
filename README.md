@@ -1,95 +1,157 @@
-# Hi 👋, I'm Anfas
+# Hi there 👋 I'm Anfas
 
-### Frontend Developer from Kerala, India
+### Full-Stack Developer | Next.js • React • TypeScript • Node.js
 
-I'm a frontend developer passionate about building responsive, user-friendly, and modern web experiences. I enjoy turning ideas into functional interfaces and continuously improving my skills through real-world projects and hands-on learning.
+I'm a full-stack developer passionate about building modern, scalable, and user-focused web applications. I enjoy turning ideas into production-ready products while writing clean, maintainable code.
+
+Currently, I'm focused on mastering the modern JavaScript ecosystem, particularly **Next.js**, **React**, and backend development with **Node.js** and **MongoDB**.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Building responsive web applications with HTML, CSS, and JavaScript
-- 🌱 Currently learning **React**, API integration, and modern frontend development
-- 🤖 Exploring **AI integration in web applications**
-- 🎯 Actively seeking **Frontend Developer Internship opportunities**
-- 📚 Continuously improving my problem-solving and development skills
-- ⚡ Interested in UI/UX design, web performance, and accessibility
+* 💻 Full-Stack Web Developer
+* 🌱 Continuously learning modern web technologies
+* ⚡ Passionate about building real-world applications
+* 🎯 Interested in Frontend Engineering, Full-Stack Development, and Backend Systems
+* 📍 India
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Responsive Design
-- Flexbox
-- CSS Grid
 
-### Tools
-- Git
-- GitHub
-- VS Code
+* Next.js
+* React
+* TypeScript
+* JavaScript (ES6+)
+* Tailwind CSS
+* HTML5
+* CSS3
+* shadcn/ui
 
----
+### Backend
 
-## 📂 Featured Projects
+* Node.js
+* Express.js
+* Next.js Server Actions
+* REST APIs
 
-### 🛒 E-Commerce Website
+### Database
 
-A responsive e-commerce website built using HTML, CSS, and JavaScript.
+* MongoDB
+* Mongoose
 
-**Features**
-- Product listings
-- Shopping cart functionality
-- Responsive design
-- Clean and modern UI
+### Authentication
 
-🔗 Live Demo: https://ecommerce-website-iota-tan.vercel.app/
+* JWT
+* HTTP-only Cookies
+* bcrypt
 
-🔗 Source Code: https://github.com/Anfas01/ecommerce-website
+### Payments
 
----
+* Stripe Checkout
+* Stripe Webhooks
 
-### 🌐 Portfolio Website
+### Tools & Platforms
 
-A minimalist dark-themed portfolio showcasing my projects, skills, and development journey.
-
-🔗 Live Demo: https://anfas01-github-io.vercel.app/
-
-🔗 Source Code: https://github.com/Anfas01/Anfas01.github.io
-
----
-
-## 🌱 Currently Learning
-
-- React
-- API Integration
-- AI-Powered Web Applications
-- Modern Frontend Development Workflows
-- Web Performance Optimization
+* Git
+* GitHub
+* Vercel
+* Postman
+* VS Code
 
 ---
 
-## 🎯 Goals for 2026
+# 🚀 Featured Projects
 
-- Build production-ready React projects
-- Contribute to open-source projects
-- Gain real-world experience through internships
-- Learn modern frontend frameworks and tools
-- Develop AI-enhanced web applications
+## 🛍️ Aven — Full-Stack E-commerce Platform
+
+A production-ready e-commerce application built with **Next.js**, **MongoDB**, and **Stripe**.
+
+### Highlights
+
+* Secure JWT Authentication
+* Shopping Cart
+* Stripe Checkout Integration
+* Stripe Webhooks
+* Order History
+* Server Actions
+* Responsive UI
+
+**Live Demo**
+
+https://aven-omega.vercel.app/
+
+**Repository**
+
+https://github.com/Anfas01/aven
 
 ---
 
-## 📫 Connect With Me
+## 🎬 CineScope — Movie Discovery Platform
 
-📧 Email: anfas010101@gmail.com
+A movie discovery application powered by the TMDB API.
 
-🐙 GitHub: https://github.com/Anfas01
+### Highlights
 
-🌐 Portfolio: https://anfas01-github-io.vercel.app/
+* JWT Authentication
+* Watchlist
+* Trending Movies
+* Search Movies
+* Movie Details
+* Responsive Design
+* Server Actions
+
+**Live Demo**
+
+https://cine-scope-eight-wine.vercel.app/
+
+**Repository**
+
+https://github.com/Anfas01/cine-scope
 
 ---
 
-### Thanks for visiting my profile! 🚀
+## 📝 InkFlow — Full-Stack Note App
+
+A secure note-taking application built using React, Express, and MongoDB.
+
+### Highlights
+
+* JWT Authentication
+* CRUD Notes
+* REST API
+* Responsive UI
+* MongoDB
+* Express Backend
+
+**Live Demo**
+
+https://inkflow-azure-eta.vercel.app/
+
+**Repository**
+
+https://github.com/Anfas01/inkflow
+
+---
+
+# 📈 Currently Learning
+
+* Advanced Next.js Patterns
+* System Design Fundamentals
+* Docker
+* CI/CD
+* Testing (Jest & Playwright)
+* Redis
+* PostgreSQL
+* Prisma
+
+---
+
+# 🤝 Let's Connect
+
+* 🌐 Portfolio: https://anfas01-github-io.vercel.app
+* 💼 LinkedIn: https://www.linkedin.com/in/-anfas-m
+* 🐙 GitHub: https://github.com/Anfas01
