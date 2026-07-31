@@ -152,6 +152,6 @@ https://github.com/Anfas01/inkflow
 
 # 🤝 Let's Connect
 
-* 🌐 Portfolio: https://anfas01-github-io.vercel.app
+* 🌐 Portfolio: https://anfas-portfolio-pi.vercel.app
 * 💼 LinkedIn: https://www.linkedin.com/in/-anfas-m
 * 🐙 GitHub: https://github.com/Anfas01
