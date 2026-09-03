@@ -114,29 +114,6 @@ https://github.com/Anfas01/cine-scope
 
 ---
 
-## 📝 InkFlow — Full-Stack Note App
-
-A secure note-taking application built using React, Express, and MongoDB.
-
-### Highlights
-
-* JWT Authentication
-* CRUD Notes
-* REST API
-* Responsive UI
-* MongoDB
-* Express Backend
-
-**Live Demo**
-
-https://inkflow-azure-eta.vercel.app/
-
-**Repository**
-
-https://github.com/Anfas01/inkflow
-
----
-
 # 📈 Currently Learning
 
 * Advanced Next.js Patterns
